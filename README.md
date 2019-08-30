@@ -5,5 +5,8 @@ MSP430 is running on 16MHZ of MCLK,16MHz of SMCLk and 32Khz of ACLK.
 TimerA0 and TimerA1 is used in Connectivity code.
 Code written in Code composer studio
 
+Point to remember:
+1.Porject create in CCS 8 version.
+2.need upload the driver library(driberlib).
 
 
